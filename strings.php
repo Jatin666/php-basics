@@ -4,7 +4,7 @@ $stringtwo = "jatin@gmail.com ";
 echo $stringone.$stringtwo ;
 
 //string example two
-$name = " Jatin \r\n";
+$name = " Jatin". "<br />";
 // echo "my name is" . $name;
 echo "My name is $name \r\n"; //this will work the same
 
